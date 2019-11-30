@@ -10,6 +10,6 @@ package Controller;
  * @author Erye
  */
 public class loginCtrl {
-
+    
     
 }
